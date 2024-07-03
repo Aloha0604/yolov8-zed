@@ -1,0 +1,6 @@
+path: C:/Users/bigfatcat/Desktop/zed-yolo/YOLOv8-stereo-main/ultralytics-main/datasets/digger  # 数据集的根路径
+train: images/train  # 训练图像路径
+val: images/val  # 验证图像路径
+test:    # 测试图像路径（如果有）
+names:
+  0: digger  # 类别名称
